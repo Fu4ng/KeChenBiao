@@ -1,4 +1,4 @@
-package com.example.zhang.classschedule;
+package com.hqu.edu.kechenbiao;
 
 import android.content.ContentValues;
 import android.content.Context;

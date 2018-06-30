@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 27
     defaultConfig {
-        applicationId "com.example.zhang.classschedule"
+        applicationId "com.hqu.edu.kechenbiao"
         minSdkVersion 25
         targetSdkVersion 27
         versionCode 1

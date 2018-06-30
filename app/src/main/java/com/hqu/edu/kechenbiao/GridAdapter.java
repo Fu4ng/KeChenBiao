@@ -1,6 +1,5 @@
-package com.example.zhang.classschedule;
+package com.hqu.edu.kechenbiao;
 
-import android.app.AlertDialog;
 import android.app.Dialog;
 import android.content.Context;
 import android.content.DialogInterface;
@@ -19,7 +18,6 @@ import android.widget.RadioButton;
 import android.widget.Switch;
 import android.widget.TextView;
 import android.widget.Toast;
-import android.app.Activity;
 
 public class GridAdapter extends BaseAdapter {
 

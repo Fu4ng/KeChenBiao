@@ -1,4 +1,4 @@
-package com.example.zhang.classschedule;
+package com.hqu.edu.kechenbiao;
 
 public class aClass {
     private String className;
